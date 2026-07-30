@@ -1,0 +1,13 @@
+Pon aquí tus fotos.
+
+El libro, tal como está configurado, espera encontrar:
+  - foto1.jpg
+  - foto2.jpg
+
+Si tus fotos se llaman distinto, no hay problema: solo cambia el nombre
+dentro de index.html (busca "fotos/foto1.jpg") para que coincida con
+el archivo real, o renombra tu foto a ese nombre.
+
+Recomendación: fotos verticales (más altas que anchas) se ven mejor
+dentro del marco tipo polaroid. Formato JPG o PNG, cualquier tamaño
+razonable funciona (no hace falta que pesen mucho).
